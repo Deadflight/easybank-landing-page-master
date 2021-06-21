@@ -1,5 +1,4 @@
-.feature{
-
+.feature {
   background-color: $lightGrayishBlue;
   text-align: center;
 
@@ -7,8 +6,7 @@
     text-align: left;
   }
 
-  &__intro{
-
+  &__intro {
     margin-bottom: 3.75rem;
 
     @include breakpoint-up(large){
@@ -16,7 +14,7 @@
     }
   }
 
-  &__grid{
+  &__grid {
 
     @include breakpoint-up(medium){
       display: flex;
@@ -24,8 +22,7 @@
     }
   }
 
-  &__item{
-
+  &__item {
     padding: 0.9375rem;
 
     @include breakpoint-up(medium){
@@ -37,7 +34,7 @@
     }
   }
 
-  &__icon{
+  &__icon {
     margin-bottom: 1.875rem;
 
     @include breakpoint-up(large){
@@ -45,8 +42,7 @@
     }
   }
 
-  &__title{
-
+  &__title {
     font-size: 1.25rem;
     font-weight: 300;
     line-height: 1.15;
@@ -59,7 +55,7 @@
     }
   }
 
-  &__description{
+  &__description {
     font-size: 0.875rem;
     line-height: 1.5;
   }
