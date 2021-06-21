@@ -61,7 +61,7 @@ I learned how to carry out this project and about sass as well as its implementa
 - Twitter - [@Deadfligth](https://twitter.com/Deadfligth)
 - Linkedin - [@Deadfligth](https://www.linkedin.com/in/deadflight/)
 - Facebook - [@Deadflight](https://www.facebook.com/Carlos-Correa-105811761669254)
-- Email - [correamillancarlos@gmail.com]
+- Email - correamillancarlos@gmail.com
 
 ## Acknowledgments
 
