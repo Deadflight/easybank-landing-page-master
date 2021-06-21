@@ -11,8 +11,6 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -37,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/Deadflight/easybank-landing-page-master)
+- Live Site URL: [Live site](https://deadflight.github.io/easybank-landing-page-master/)
 
 ## My process
 
@@ -49,18 +47,22 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Vanilla JavaScript](https://reactjs.org/)
-- [Sass](https://nextjs.org/) - For styles
+- [Vanilla JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [Sass](https://sass-lang.com/) - For styles
 
 ### What I learned
 
+I learned how to carry out this project and about sass as well as its implementation and its workflow thanks to the youtuber [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Deadflight](https://deadflight.github.io/portfolio/)
+- Frontend Mentor - [@Deadflight](https://www.frontendmentor.io/profile/Deadflight)
+- Twitter - [@Deadfligth](https://twitter.com/Deadfligth)
+- Linkedin - [@Deadfligth](https://www.linkedin.com/in/deadflight/)
+- Facebook - [@Deadflight](https://www.facebook.com/Carlos-Correa-105811761669254)
+- Email - [correamillancarlos@gmail.com]
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I would like to thank youtuber [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ) for instructing with her videos on how to carry out a project of this type with the use of Sass, a technology that I had the pleasure of knowing and learning from her in this project
